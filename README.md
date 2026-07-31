@@ -1,7 +1,3 @@
-Here's a professional README written from the perspective of impressing hackathon judges.
-
-I'll first give a short introduction, then the full README.
-
 🤖 Negotia AI
 
 AI Agents Negotiate. x402 Enables. Algorand Secures.
@@ -147,4 +143,4 @@ Theme: Agentic Commerce
 
 🏆 Our Vision
 
-We envision a future where AI agents don't just answer questions—they negotiate, transact, and complete secure business deals on behalf of people across the world.One suggestion: Since you're using x402 and Algorand, make sure your prototype actually demonstrates both. Judges often ask, "Can you show where x402 is used?" If it's in the README, they may expect to see it in the demo as well.
+We envision a future where AI agents don't just answer questions—they negotiate, transact, and complete secure business deals on behalf of people across the world.
